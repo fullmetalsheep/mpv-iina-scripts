@@ -3,7 +3,7 @@ Some scripts to make life easier when using mpv and iina (mpv fork for OSX)
 
 ## 1. trueautosub.lua
 ### True automatic subtitle downloading for mpv, works on OSX and Linux
-This is a Improved fork of the[autosub](https://gist.github.com/selsta/ce3fb37e775dbd15c698) script by **selsta**. It Automatically downloads subtitles if they are not present using **subliminal**
+This is a Improved fork of the [autosub](https://gist.github.com/selsta/ce3fb37e775dbd15c698) script by **selsta**. It Automatically downloads subtitles if they are not present using **subliminal**
 
 **Make sure you have [subliminal](https://github.com/Diaoul/subliminal) installed**
 
