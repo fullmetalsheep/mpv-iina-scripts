@@ -1,6 +1,6 @@
 # 📺 mpv / iiNA Scripts
 Some scripts to make life easier when using mpv and iina (mpv fork for OSX) 
------------------
+
 # Scripts
 
 ## 1. trueautosub.lua
